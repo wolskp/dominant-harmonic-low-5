@@ -11,7 +11,10 @@ Intervals consist of two notes,
 which can be located close or far in relation to each other. And about
 at what distance they are, we are told by the number of the interval by which it
 indicated (from 1 to 8).
-Source: https://etnos.shl.muzkult.ru/media/2020/04/27/1255508319/Uryupina_I.V._OKS_6_klass.pdf<br><br>
+Source: https://etnos.shl.muzkult.ru/media/2020/04/27/1255508319/Uryupina_I.V._OKS_6_klass.pdf
+
+![](https://github.com/user-attachments/assets/330781a2-bd97-46b9-a52e-d750fc53e299)
+<br><br>
 
 <span id="ru"><a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;<a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -26,5 +29,9 @@ Source: https://etnos.shl.muzkult.ru/media/2020/04/27/1255508319/Uryupina_I.V._O
 которые могут быть расположены близко или далеко по отношению друг к другу. И о том,
 на каком расстоянии они находятся, нам говорит число интервала, которым оно
 обозначено (от 1 до 8).
-Источник:https://etnos.shl.muzkult.ru/media/2020/04/27/1255508319/Uryupina_I.V._OKS_6_klass.pdf<br><br>
+Источник:https://etnos.shl.muzkult.ru/media/2020/04/27/1255508319/Uryupina_I.V._OKS_6_klass.pdf
+
+![](https://github.com/user-attachments/assets/330781a2-bd97-46b9-a52e-d750fc53e299)
+
+<br><br>
 
