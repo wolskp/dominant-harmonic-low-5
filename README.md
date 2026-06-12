@@ -1,4 +1,19 @@
-<span id="en"><a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;<a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+<span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
+
+![](https://github.com/user-attachments/assets/330781a2-bd97-46b9-a52e-d750fc53e299)
+
+Также рекомендуем пройти этот урок:
+<a href="http://stolbitsa.com/stolbitsa/subdominant-harmonic-d-1-5-4"><img src="https://github.com/user-attachments/assets/8904caf2-93d4-45ad-947f-c7d3b64cff0c" alt="" width="200"></a>
+stolbitsa.com/stolbitsa/subdominant-harmonic-d-1-5-4
+
+Также рекомендуем пройти этот урок:
+![](https://github.com/user-attachments/assets/8904caf2-93d4-45ad-947f-c7d3b64cff0c  =200x200) 
+stolbitsa.com/stolbitsa/subdominant-harmonic-d-1-5-4
+
+<br><br>
+
+<span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 Interval (from Latin “distance”) is a combination of 2 sounds. If the interval sounds are taken
 simultaneously - this is a harmonic interval, if sequentially one after another -
@@ -20,31 +35,6 @@ We also recommend taking this lesson:
 ![](https://github.com/user-attachments/assets/8904caf2-93d4-45ad-947f-c7d3b64cff0c  =200x200) 
 stolbitsa.com/stolbitsa/subdominant-harmonic-d-1-5-4
 
-
-<br><br>
-
-<span id="ru"><a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;<a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-
-Интервал (с латинского «расстояние») - сочетание 2 звуков. Если звуки интервала взяты
-одновременно – это гармонический интервал, если последовательно друг за другом –
-мелодический интервал. Нижний звук интервала – основание, верхний – вершина.
-Интервал, взятый от основания к вершине, называется – восходящим, а от вершины к
-основанию – нисходящим.
-Интервалы, образованные в пределах октавы называются – простые, а шире октавы
-– составными.
-Интервалы состоят из двух нот,
-которые могут быть расположены близко или далеко по отношению друг к другу. И о том,
-на каком расстоянии они находятся, нам говорит число интервала, которым оно
-обозначено (от 1 до 8).
-Источник:https://etnos.shl.muzkult.ru/media/2020/04/27/1255508319/Uryupina_I.V._OKS_6_klass.pdf
-
-![](https://github.com/user-attachments/assets/330781a2-bd97-46b9-a52e-d750fc53e299)
-
-
-
-Также рекомендуем пройти этот урок:
-![](https://github.com/user-attachments/assets/8904caf2-93d4-45ad-947f-c7d3b64cff0c  =200x200) 
-stolbitsa.com/stolbitsa/subdominant-harmonic-d-1-5-4
 
 <br><br>
 
